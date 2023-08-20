@@ -1,7 +1,7 @@
 # Projeto Integrado: Happy
 
 
-<img src="https://github.com/joaopaulovieira-dev/happy/blob/master/assets/images/logo.png" min-width="300px" max-width="300px" width="300px" align="center" alt="/">
+<img src="https://github.com/joaopaulovieira-dev/projeto-integrado-happy/blob/master/code/happy/assets/images/logo.png" min-width="300px" max-width="300px" width="300px" align="center" alt="/">
 
 Este repositório contém o projeto integrado "Happy", um aplicativo mobile desenvolvido como parte do trabalho acadêmico. O projeto tem como objetivo promover a interação entre indivíduos e crianças órfãs, criando oportunidades de conexão significativa e contribuindo para um ambiente onde laços afetivos podem ser formados.
 
@@ -25,7 +25,7 @@ O protótipo do aplicativo foi desenvolvido com base no padrão arquitetural Wid
 
 ## Instruções de Uso
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/happy.git`
+1. Clone este repositório.
 2. Instale as dependências do Flutter (se ainda não tiver instalado): [Instruções de Instalação do Flutter](https://flutter.dev/docs/get-started/install)
 3. Configure seu projeto no Firebase e atualize as chaves de configuração no aplicativo.
 4. Execute o aplicativo: `flutter run`
